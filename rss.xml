@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dancephotographer]]></title>
         <description><![CDATA[dancephotographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dancephotographer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 09:59:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 10:00:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dancephotographer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7f030627833617.5636b7ed6f159.jpg">]]></description>
+            <link>https://thegrid.ai/dancephotographer/6683da29-807f-4aec-a9f2-083c90a76f57/index.html</link>
+            <guid isPermaLink="false">6683da29-807f-4aec-a9f2-083c90a76f57</guid>
+            <pubDate>Tue, 19 Jan 2016 09:59:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5c429827833617.5636b8025f07a.jpg">]]></description>
-            <link>undefined4edc9a42-cc23-40b9-8119-f86e78abd22b/index.html</link>
+            <link>https://thegrid.ai/dancephotographer/4edc9a42-cc23-40b9-8119-f86e78abd22b/index.html</link>
             <guid isPermaLink="false">4edc9a42-cc23-40b9-8119-f86e78abd22b</guid>
             <pubDate>Tue, 19 Jan 2016 09:59:30 GMT</pubDate>
         </item>
